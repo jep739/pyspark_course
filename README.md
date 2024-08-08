@@ -3,7 +3,25 @@
 Programming Assignments and Examples from UC San Diego - DSE230X
 >https://www.edx.org/course/big-data-analytics-using-spark
 
-## Notes About Spark and Data Analysis
+## Key Project/Notebook
+
+### Weather Data Analysis Using Big Data and PySpark
+
+This repository features a comprehensive suite of tools and notebooks dedicated to the analysis of large-scale weather datasets using Big Data technologies. A highlight of this collection is the "Weather Analysis Coursework" notebook, which exemplifies the power of PySpark in processing and visualizing extensive weather data. Key features include:
+
+**Data Integration and Preparation:** Efficient retrieval and merging of weather data with geographical information.
+
+**Data Smoothing and Trend Analysis:** Application of Gaussian smoothing techniques to reveal long-term weather patterns.
+
+**Statistical Analysis:** Detailed computation of mean, standard deviation, and PCA to understand data variability and principal components.
+
+**Visualization:** Advanced plotting to visualize smoothed data, statistical measures, and eigenvectors.
+
+**Big Data Techniques:** Leveraging PySpark's distributed computing capabilities for efficient data processing and analysis.
+
+This project not only showcases the use of PySpark for handling large datasets but also provides valuable insights into weather patterns and trends, making it a vital component of this repository. These are skills I developed taking this course. 
+
+## General Notes About Spark and Data Analysis
 
 * ## Resilient Distributed Datasets (RDD)
    * Think of RDD as data in a list distributed among executors or different computers.
